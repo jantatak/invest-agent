@@ -1,0 +1,329 @@
+[2025-04-26 09:19:13] 🚀 Spuštění aktualizace pro 11 tickerů.
+[2025-04-26 09:19:58] JEPI: Data aktualizována. Rozsah 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 09:19:58] JEPI: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:02] JEPQ: Data aktualizována. Rozsah 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 09:20:02] JEPQ: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:03] QQQI: Data aktualizována. Rozsah 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 09:20:03] QQQI: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:14] O: Data aktualizována. Rozsah 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 09:20:14] O: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:19] SPYD: Data aktualizována. Rozsah 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 09:20:19] SPYD: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:20] TSLY: Data aktualizována. Rozsah 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 09:20:20] TSLY: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:22] IWDA.AS: Data aktualizována. Rozsah 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 09:20:22] IWDA.AS: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:24] ISPA.DE: Data aktualizována. Rozsah 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 09:20:24] ISPA.DE: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:26] CSPX.L: Data aktualizována. Rozsah 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 09:20:26] CSPX.L: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:28] BRBY.L: Data aktualizována. Rozsah 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 09:20:28] BRBY.L: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:30] TSLA: Data aktualizována. Rozsah 14 let (5413 dní) od 2010-06-29 do 2025-04-24.
+[2025-04-26 09:20:30] TSLA: Upozornění – poslední datum 2025-04-24, data nejsou zcela aktuální.
+[2025-04-26 09:20:30] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L, TSLA
+[2025-04-26 09:20:30] 🏁 Aktualizace dokončena za 76 sekund.
+--------------------------------------------------
+
+[2025-04-26 09:25:51] 🚀 Spuštění aktualizace pro 11 tickerů.
+[2025-04-26 09:26:38] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 09:26:38] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:26:42] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 09:26:42] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:26:43] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 09:26:44] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:26:56] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 09:26:57] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:03] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 09:27:03] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:05] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 09:27:05] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:07] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 09:27:07] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:10] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 09:27:10] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:12] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 09:27:12] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:15] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 09:27:15] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:18] TSLA: Aktualizováno – 14 let (5413 dní) od 2010-06-29 do 2025-04-24.
+[2025-04-26 09:27:18] TSLA: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:27:18] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L, TSLA
+[2025-04-26 09:27:18] 🏁 Aktualizace dokončena za 87 sekund.
+--------------------------------------------------
+
+[2025-04-26 09:45:34] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 09:46:18] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 09:46:18] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:22] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 09:46:22] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:24] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 09:46:24] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:37] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 09:46:37] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:43] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 09:46:43] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:44] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 09:46:45] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:47] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 09:46:48] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:51] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 09:46:51] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:54] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 09:46:54] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:57] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 09:46:57] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 09:46:58] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 09:46:58] 🏁 Aktualizace dokončena za 83 sekund.
+--------------------------------------------------
+
+[2025-04-26 10:04:21] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 10:05:05] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 10:05:05] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:10] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 10:05:10] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:12] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 10:05:12] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:28] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 10:05:28] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:36] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 10:05:37] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:39] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 10:05:39] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:43] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 10:05:44] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:47] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 10:05:47] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:51] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 10:05:51] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:55] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 10:05:55] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:05:55] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 10:05:55] 🏁 Aktualizace dokončena za 93 sekund.
+--------------------------------------------------
+
+[2025-04-26 10:28:14] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 10:29:08] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 10:29:08] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:29:14] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 10:29:14] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:29:16] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 10:29:16] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:29:36] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 10:29:36] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:29:45] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 10:29:45] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:29:48] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 10:29:48] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:29:53] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 10:29:53] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:29:58] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 10:29:59] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:30:03] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 10:30:03] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:30:09] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 10:30:09] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 10:30:10] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 10:30:10] 🏁 Aktualizace dokončena za 115 sekund.
+--------------------------------------------------
+
+[2025-04-26 14:56:28] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 14:57:18] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 14:57:18] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:57:25] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 14:57:25] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:57:27] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 14:57:27] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:57:42] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 14:57:42] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:57:49] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 14:57:49] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:57:52] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 14:57:52] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:57:57] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 14:57:57] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:58:03] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 14:58:03] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:58:06] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 14:58:06] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:58:11] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 14:58:12] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 14:58:12] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 14:58:12] 🏁 Aktualizace dokončena za 104 sekund.
+--------------------------------------------------
+
+[2025-04-26 15:00:00] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 15:00:07] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 15:00:07] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:00:12] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 15:00:12] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:00:14] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 15:00:14] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:00:36] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 15:00:36] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:00:45] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 15:00:45] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:00:49] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 15:00:49] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:00:55] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:00:55] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:01:01] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:01:01] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:01:07] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 15:01:07] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:01:15] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 15:01:15] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:01:15] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L, JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 15:01:15] 🏁 Aktualizace dokončena za 74 sekund.
+--------------------------------------------------
+
+[2025-04-26 15:07:04] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 15:07:04] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 15:07:04] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:04] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 15:07:04] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:05] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 15:07:05] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:06] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 15:07:06] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:06] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 15:07:06] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:07] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 15:07:07] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:07] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:07:07] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:08] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:07:08] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:08] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 15:07:08] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:09] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 15:07:09] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:07:09] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 15:07:09] 🏁 Aktualizace dokončena za 4 sekund.
+--------------------------------------------------
+
+[2025-04-26 15:10:42] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 15:10:43] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 15:10:43] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:43] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 15:10:43] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:43] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 15:10:43] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:45] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 15:10:45] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:45] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 15:10:45] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:46] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 15:10:46] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:46] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:10:46] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:46] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:10:46] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:47] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 15:10:47] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:48] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 15:10:48] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:10:48] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 15:10:48] 🏁 Aktualizace dokončena za 5 sekund.
+--------------------------------------------------
+
+[2025-04-26 15:26:13] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 15:26:14] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 15:26:14] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:15] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 15:26:15] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:15] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 15:26:15] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:17] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 15:26:17] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:18] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 15:26:18] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:18] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 15:26:18] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:19] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:26:19] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:20] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:26:20] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:21] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 15:26:21] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:22] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 15:26:22] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:26:22] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 15:26:22] 🏁 Aktualizace dokončena za 8 sekund.
+--------------------------------------------------
+
+[2025-04-26 15:43:42] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 15:43:43] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 15:43:43] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:43] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 15:43:43] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:43] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 15:43:43] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:45] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 15:43:45] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:45] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 15:43:45] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:46] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 15:43:46] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:46] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:43:46] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:47] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:43:47] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:47] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 15:43:47] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:48] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 15:43:48] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:43:48] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 15:43:48] 🏁 Aktualizace dokončena za 6 sekund.
+--------------------------------------------------
+
+[2025-04-26 15:56:00] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 15:56:00] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 15:56:00] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:01] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 15:56:01] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:01] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 15:56:01] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:02] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 15:56:02] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:03] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 15:56:03] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:03] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 15:56:03] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:04] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:56:04] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:04] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:56:04] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:05] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 15:56:05] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:05] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 15:56:05] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:56:05] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 15:56:05] 🏁 Aktualizace dokončena za 5 sekund.
+--------------------------------------------------
+
+[2025-04-26 15:59:43] 🚀 Spuštění aktualizace pro 10 tickerů.
+[2025-04-26 15:59:44] JEPI: Aktualizováno – 4 let (1799 dní) od 2020-05-21 do 2025-04-24.
+[2025-04-26 15:59:44] JEPI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:45] JEPQ: Aktualizováno – 2 let (1086 dní) od 2022-05-04 do 2025-04-24.
+[2025-04-26 15:59:45] JEPQ: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:45] QQQI: Aktualizováno – 1 let (450 dní) od 2024-01-30 do 2025-04-24.
+[2025-04-26 15:59:45] QQQI: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:48] O: Aktualizováno – 30 let (11146 dní) od 1994-10-18 do 2025-04-24.
+[2025-04-26 15:59:48] O: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:49] SPYD: Aktualizováno – 9 let (3472 dní) od 2015-10-22 do 2025-04-24.
+[2025-04-26 15:59:49] SPYD: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:49] TSLY: Aktualizováno – 2 let (883 dní) od 2022-11-23 do 2025-04-24.
+[2025-04-26 15:59:49] TSLY: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:50] IWDA.AS: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:59:50] IWDA.AS: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:51] ISPA.DE: Aktualizováno – 15 let (5690 dní) od 2009-09-25 do 2025-04-24.
+[2025-04-26 15:59:51] ISPA.DE: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:52] CSPX.L: Aktualizováno – 14 let (5335 dní) od 2010-09-15 do 2025-04-24.
+[2025-04-26 15:59:52] CSPX.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:53] BRBY.L: Aktualizováno – 22 let (8322 dní) od 2002-07-12 do 2025-04-24.
+[2025-04-26 15:59:53] BRBY.L: Upozornění – data nejsou aktuální (poslední datum 2025-04-24).
+[2025-04-26 15:59:53] ⚠️ Tickery bez aktuálních dat: JEPI, JEPQ, QQQI, O, SPYD, TSLY, IWDA.AS, ISPA.DE, CSPX.L, BRBY.L
+[2025-04-26 15:59:53] 🏁 Aktualizace dokončena za 9 sekund.
+--------------------------------------------------
+
