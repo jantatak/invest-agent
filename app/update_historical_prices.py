@@ -61,9 +61,8 @@ def update_prices(ticker):
     if existing_data is not None:
         before = len(existing_data)
         combined = pd.concat([existing_data, df_new], ignore_index=True)
-        combined = combined.drop_duplicates(subset="Date").sort_values("Date")
-        removed = before + len(df_new) - len(combined)
-        print(f"🧹 Odstraněno {removed} duplicitních řádků.")
+        combined = combined.sort_values("Date")  # NEODSTRAŇUJEME duplicity
+        print(f"🧹 Ponecháno {len(df_new)} nových řádků (duplicitní se NEodstraňují).")
     else:
         combined = df_new
 
@@ -84,7 +83,7 @@ def update_prices(ticker):
 
 def main(tickers):
     start_time = datetime.now()
-    print(f"🧪 TEST: Spouštím aktualizaci pro tickery: {', '.join(tickers)}")
+    print(f"🧪 Spouštím aktualizaci pro tickery: {', '.join(tickers)}")
 
     for ticker in tickers:
         update_prices(ticker)
@@ -98,7 +97,7 @@ def main(tickers):
     print(f"🏁 Hotovo za {duration.seconds} sekund.")
 
 if __name__ == "__main__":
-    print("🧪 VERZE skriptu: 2025-05-01 ✅")
+    print("🧪 VERZE skriptu: 2025-05-05 (bez mazání duplicit)")
     try:
         from app.config_assets import ASSETS_TO_WATCH
         tickers = ASSETS_TO_WATCH["etf"] + ASSETS_TO_WATCH["stocks"]
